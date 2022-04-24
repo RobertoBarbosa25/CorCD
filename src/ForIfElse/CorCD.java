@@ -16,7 +16,7 @@ public class CorCD {
             if (cor.equals ("Azul") || cor.equals("azul")){
                 System.out.println("Este disco custa 20,00 reais");
         }else
-            if (cor.equals("Amarelo") || cor.equals("azul")) {
+            if (cor.equals("Amarelo") || cor.equals("amarelo")) {
                 System.out.println("Este disco custa 30,00 reais");
         }else
             if (cor.equals("Vermelho") || cor.equals("vermelho") ) {
